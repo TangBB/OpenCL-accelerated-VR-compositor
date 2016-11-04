@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{EC8222C7-B620-9447-55D9-48BCAD202AC1}") = "test_opencl_2", "Assembly-CSharp.csproj", "{3227E3CF-CDF8-7259-832F-4E53E70A7CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3227E3CF-CDF8-7259-832F-4E53E70A7CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3227E3CF-CDF8-7259-832F-4E53E70A7CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3227E3CF-CDF8-7259-832F-4E53E70A7CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3227E3CF-CDF8-7259-832F-4E53E70A7CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\bin\Debug\FlameJet.exe.config
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\bin\Debug\FlameJet.exe
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\bin\Debug\FlameJet.pdb
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\bin\Debug\Cloo.dll
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\obj\Debug\FlameJet.csprojResolveAssemblyReference.cache
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\obj\Debug\FlameJet.exe
+c:\users\jiyao\documents\visual studio 2015\Projects\FlameJet\FlameJet\obj\Debug\FlameJet.pdb
